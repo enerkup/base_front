@@ -17,8 +17,6 @@ var header = `
   <body>
 `;
 
-
-
 var footer = `
 
 <script src="/reload/reload.js"></script>
